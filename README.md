@@ -1,9 +1,5 @@
 # Workshop-Security-in-Web
 
-Workshop Security in Web
-
-Topics
-
 Https
 
 SQL Injection
